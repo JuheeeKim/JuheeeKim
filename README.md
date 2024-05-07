@@ -1,4 +1,4 @@
-### Hi there 👋
+## Juheee's GitHub 👋
 
 <!--
 **JuheeeKim/JuheeeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
