@@ -7,7 +7,7 @@
 🌱최근 **Django** 와 **Python**을 주로 공부했습니다. </br>
 😘**Live Streaming**을 좋아합니다. </br>
 </br>
-
+</br>
 
 ### Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,6 @@
 ![python](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![python](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![python](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-</br>
 </br>
 
 ### Tools
