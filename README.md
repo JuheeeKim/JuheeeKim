@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Juhee's%20GitHub&fontSize=50&fontColor=FFFFFF)
 
-</br>
-
 ### Skill
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![python](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
