@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Juhee's%20GitHub&fontSize=50&fontColor=FFFFFF)
 
 ### Introduce Myself
-🏨 현재 대학생 연합 개발동아리 피로그래밍 21기 **FE/BE Developer** 로 참여하고 있습니다. </br>
+🏨 현재 대학생 연합 개발동아리 `피로그래밍 21기` **FE/BE Developer** 로 참여하고 있습니다. </br>
 🌱최근 **Django** 와 **Python**을 주로 공부했습니다. </br>
 😘**Live Streaming**을 좋아합니다. </br>
 </br>
