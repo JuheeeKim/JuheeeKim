@@ -4,8 +4,7 @@
 
 ### Introduce Myself
 🏨 현재 대학생 연합 개발동아리 `피로그래밍 21기` **FE/BE Developer** 로 참여하고 있습니다. </br>
-🌱최근 **Django** 와 **Python**을 주로 공부했습니다. </br>
-😘**Live Streaming**을 좋아합니다. </br>
+🌱최근 **Python**과 **Java**를 주로 공부했습니다. </br>
 </br>
 </br>
 
@@ -19,7 +18,6 @@
 ![python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![python](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![python](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![python](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![python](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <!-- ![python](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
