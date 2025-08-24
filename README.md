@@ -8,13 +8,13 @@
 ## 🧰 Tech Stack
 
 **Backend & Programming Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 **Infra & DevOps**  
@@ -54,11 +54,11 @@
 
 ---
 
-## 🔭 Projects (선택)
+## 🔭 Projects
 
-- **Dever (사내)** — API 서버/DB 설계, 백엔드 인턴  
-- **대가의 선택** — 투자 의사결정 지원 서비스, BE 개발  
-- **위아오너** — 개인 창업자 지원 서비스, BE 개발  
+- [**Dever (사내)**](https://www.devercorp.com/) — API 서버/DB 설계, 백엔드 인턴  
+- [**대가의 선택**](https://www.masterpick.co.kr/home) — 투자 의사결정 지원 서비스, BE 개발  
+- [**위아오너**](https://weareowner.co.kr/) — 개인 창업자 지원 서비스, BE 개발  
 - **Pirogramming Community** — 동아리 커뮤니티 웹, BE/PM
 
 ---
