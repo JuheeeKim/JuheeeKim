@@ -1,6 +1,76 @@
-<div align="center">
+# 👋 Hi, I'm JuHee
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=250&section=header&text=Juhee's%20GitHub&fontSize=50&fontColor=FFFFFF)
+> **사용자에게 가치를 주는 서비스**를 만드는 사람입니다.  
+> 새로 배우고, 빠르게 구현하고, 함께 성장하는 것을 좋아합니다.
 
+---
 
-</div>
+## 🧰 Tech Stack
+
+**Backend & Programming Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Infra & DevOps**  
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 🗂️ Experience
+
+### **Dever** · 백엔드 엔지니어(BE) *(2024.09 — 2025.02)*
+- SI 솔루션 **Dever** 회사 백엔드 개발자 인턴 참여  
+- **API 서버 구축** 및 **DB 설계** 진행
+
+### **피로그래밍 개발 연합 동아리** · 백엔드 엔지니어(BE) / PM *(2024.06 — 2024.08)*
+- 대학생 연합 개발 동아리 21기로 참여  
+- BE 포지션 **'피로그래밍 커뮤니티'** 웹 **기획 및 개발**
+
+### **네이버 소프트웨어야 놀자** · 대학생 멘토 *(2023.12 — 2024.02)*
+- 네이버 커넥트 재단 주최 대외 활동  
+- 초등학생 **AI, 알고리즘** 교육자 담당
+
+### **코드하나 코드윌** · 대학생 멘토 *(2022.09 — 2022.11)*
+- 코드하나 주최 대외 활동  
+- 초등학생 **AI, 알고리즘** 교육 **서포터즈** 담당
+
+---
+
+## 🏆 Awards
+
+- **2025 제 20회 캠스톤 디자인 경진대회 장려상** *(2025.03 — 2025.05)*  
+  사학과 캡스톤디자인 참여, **데이터 분석(Python)** 을 통한 결과 도출
+- **2023/24 교내 동계 모각소 장려상** *(2023.12 — 2024.02)*  
+  소프트웨어학과 스터디 활동, **객체지향 프로그래밍 및 실습(Java/Spring)** 복습 및 과제 디벨롭
+
+---
+
+## 🔭 Projects (선택)
+
+- **Dever (사내)** — API 서버/DB 설계, 백엔드 인턴  
+- **대가의 선택** — 투자 의사결정 지원 서비스, BE 개발  
+- **위아오너** — 개인 창업자 지원 서비스, BE 개발  
+- **Pirogramming Community** — 동아리 커뮤니티 웹, BE/PM
+
+---
+
+## 📫 Contact
+- Email: b6820juhee@ajou.ac.kr
+
+---
+
+## 📈 GitHub Stats (옵션)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={JuheeeKim}&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={JuheeeKim}&layout=compact)
+
+---
