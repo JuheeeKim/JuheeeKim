@@ -5,6 +5,11 @@
 
 ---
 
+## 📫 Contact
+- Email: b6820juhee@ajou.ac.kr
+
+---
+
 ## 🧰 Tech Stack
 
 **Backend & Programming Languages**  
@@ -56,14 +61,9 @@
 
 ## 🔭 Projects
 
-- [**Dever (사내)**](https://www.devercorp.com/) — API 서버/DB 설계, 백엔드 인턴  
-- [**대가의 선택**](https://www.masterpick.co.kr/home) — 투자 의사결정 지원 서비스, BE 개발  
-- [**위아오너**](https://weareowner.co.kr/) — 개인 창업자 지원 서비스, BE 개발  
-- **Pirogramming Community** — 동아리 커뮤니티 웹, BE/PM
-
----
-
-## 📫 Contact
-- Email: b6820juhee@ajou.ac.kr
+- [**Dever (사내)**](https://www.devercorp.com/) — DataBase 설계 및 API 구현
+- [**대가의 선택**](https://www.masterpick.co.kr/home) — 주식 데이터 자동 수집 및 성능 개선 API 개발
+- [**위아오너**](https://weareowner.co.kr/) — 마케팅 기능 개발 및 포인트 정산/알림 시스템 안정화
+- [**Pirogramming Community**](https://www.pirotime.com/) — 동아리 커뮤니티 웹, BE/PM
 
 ---
