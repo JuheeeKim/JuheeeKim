@@ -67,10 +67,3 @@
 - Email: b6820juhee@ajou.ac.kr
 
 ---
-
-## 📈 GitHub Stats (옵션)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={JuheeeKim}&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={JuheeeKim}&layout=compact)
-
----
