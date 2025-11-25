@@ -44,9 +44,9 @@
 
 ## 🔭 Projects
 
-- [**Dever (사내)**](https://www.devercorp.com/) — BE, 커리어, 고객센터 일부 기능 DataBase 설계 및 API 구현
-- [**대가의 선택**](https://www.masterpick.co.kr/home) — BE, 주식 데이터 자동 수집 및 성능 개선 API 개발
-- [**위아오너**](https://weareowner.co.kr/) — BE, 마케팅 기능 개발 및 포인트 정산/알림 API 개발
-- [**PiroTime**](https://www.pirotime.com/) — BE/PM, 피로그래밍 동아리 커뮤니티 웹 개발
+- [**Dever (사내)**](https://www.devercorp.com/) (BE) - 커리어, 고객센터 일부 기능 DataBase 설계 및 API 구현
+- [**대가의 선택**](https://www.masterpick.co.kr/home) (BE) - 주식 데이터 자동 수집 및 성능 개선 API 개발
+- [**위아오너**](https://weareowner.co.kr/) (BE) - 마케팅 기능 개발 및 포인트 정산/알림 API 개발
+- [**PiroTime**](https://www.pirotime.com/) (BE/PM) - 피로그래밍 동아리 커뮤니티 웹 기획 및 개발
 
 ---
